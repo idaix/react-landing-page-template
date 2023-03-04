@@ -1,0 +1,9 @@
+export { default as Logo } from './Logo';
+export { default as Button } from './Button/Default';
+export { default as SeactionHeader } from './SeactionHeader';
+export { default as FeatureBlock } from './FeatureBlock';
+export { default as CreazyTitle } from './CreazyTitle';
+export { default as Allert } from './Allert';
+export { default as ZigzagBlock } from './ZigzagBlock';
+export { default as TestimonialCard } from './TestimonialCard'
+export { default as List } from './List'
