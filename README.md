@@ -1,8 +1,9 @@
 # React landing page template
 
 **Open** is a **React landing page template built with Tailwind CSS** 
-Made by cruip.com
-----------
+
+Made by [Cruip](cruip.com)
+
 ![Home Default](./screenshot/default.png)
 
 ## Usage
